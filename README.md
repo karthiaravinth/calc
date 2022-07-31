@@ -1,2 +1,2 @@
-# calc
-Calculater Code
+# calculator
+Simple Calculator Code 
